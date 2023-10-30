@@ -1,0 +1,4 @@
+name: sthu
+version: '1.0'
+main: net.fg83.sthu.Sthu
+api-version: '1.19'

@@ -1,0 +1,4 @@
+name: sthu
+version: '${project.version}'
+main: net.fg83.sthu.Sthu
+api-version: '1.19'
